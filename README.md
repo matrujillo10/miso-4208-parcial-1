@@ -1,4 +1,4 @@
-# miso-4208-parcial-1
+# Parcial-1, parte práctica
 
 # Todoist
 
