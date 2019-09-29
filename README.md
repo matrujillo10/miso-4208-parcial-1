@@ -11,9 +11,9 @@ Para esta parte, decidimos realizar una suite de pruebas utilizando `cypress` pa
 - La página de Premium: [link](https://todoist.com/premium)
 - La página de business: [link](https://todoist.com/business)
 - La página de precios: [link](https://todoist.com/pricing)
-- El modal de registro.
-- El modal de iniciar sesión.
-- La página de recuperar contraseña.
+- El modal de registro
+- El modal de iniciar sesión
+- La página de recuperar contraseña
 
 
 Sin embargo, decidimos dejar fuera la página de [plantillas](https://todoist.com/templates/?lang=es) debido a que consideramos que al ser plantillas, son bastante propensas a cambiar y, por tanto, una prueba de regresión visual no será muy útil en esta página.
