@@ -24,6 +24,7 @@ Sin embargo, decidimos dejar fuera la página de [plantillas](https://todoist.co
 - Crear una tarea
 - La bandeja de entrada
 - La pestaña de próximos 7 días
+- Las tareas del proyecto de bienvenida
 - El modal para agregar un proyecto
 - El modal para agregar una tarea rápida
 - El menú de configuración
