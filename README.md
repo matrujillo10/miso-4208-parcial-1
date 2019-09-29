@@ -1,4 +1,4 @@
-# Parcial-1, parte práctica
+# Parcial 1, parte práctica
 
 # Todoist
 
