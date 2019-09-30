@@ -64,4 +64,4 @@ Dentro de las pruebas realizadas entre las aplicaciones encontramos 10 errores q
 
 ### Pruebas de la APK limpia
 
-
+![]([https://github.com/matrujillo10/miso-4208-parcial-1/blob/master/redReader/imagenes/Pruebas%20APK%20limpia%201.png](https://github.com/matrujillo10/miso-4208-parcial-1/blob/master/redReader/imagenes/Pruebas APK limpia 1.png))
