@@ -1,5 +1,10 @@
 # Parcial 1, parte práctica
 
+# Integrantes
+
+- Miller Andrés Trujillo - 201517402
+- Cristian Martinez Bedoya - 201818747
+
 # Todoist
 
 Para esta parte, decidimos realizar una suite de pruebas utilizando `cypress` para tomar capturas de pantalla sobre la aplicación. Además, las capturas que decidimos tomar fueron:
