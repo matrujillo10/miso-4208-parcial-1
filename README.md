@@ -62,6 +62,10 @@ Dentro de las pruebas realizadas entre las aplicaciones encontramos 10 errores q
 9. No está la opción de "Fijar al menú principal" al seleccionar un subreddit del home
 10. No está la opción de "Quitar del menú principal" al "Fijar al menú principal" un subreddit desde el detalle del subreddit
 
+Para encontar cada uno de estos bugs se usó Cucumber para los casos funcionales y ResembleJS para las diferencias visuales.
+
+El detalle de las pruebas de Cucumber se encuentra en este [archivo](https://github.com/matrujillo10/miso-4208-parcial-1/blob/master/redReader/my_first.feature)
+
 #### Pruebas de la APK limpia con pruebas exitosas
 
 - [Parte 1](https://github.com/matrujillo10/miso-4208-parcial-1/blob/master/redReader/imagenes/Pruebas%20APK%20limpia%201.png)
