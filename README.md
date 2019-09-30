@@ -46,8 +46,8 @@ En esta parte decidimos no probar crear tareas o proyectos debido a que esto pod
 
 Para las pruebas de la aplicación RedReader limpia y modificada usamos dos estrategias:
 
-1 - Instalación de las aplicaciones y comparan funcionalidades
-2 - Descomprimir el APK para ver cambios en el código
+1. Instalación de las aplicaciones y comparan funcionalidades
+2. Descomprimir el APK para ver cambios en el código
 
 Dentro de las pruebas realizadas entre las aplicaciones encontramos 10 errores que listamos a continuación
 
