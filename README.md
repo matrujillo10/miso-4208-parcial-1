@@ -66,6 +66,8 @@ Para encontar cada uno de estos bugs se usó Cucumber para los casos funcionales
 
 El detalle de las pruebas de Cucumber se encuentra en este [archivo](https://github.com/matrujillo10/miso-4208-parcial-1/blob/master/redReader/my_first.feature)
 
+Las pruebas con ResembleJS están documentadas en imágenes donde se demuestran las diferencias, esta evidencia se encuentra en esta [carpeta](https://github.com/matrujillo10/miso-4208-parcial-1/tree/master/redReader/imagenes)
+
 #### Pruebas de la APK limpia con pruebas exitosas
 
 - [Parte 1](https://github.com/matrujillo10/miso-4208-parcial-1/blob/master/redReader/imagenes/Pruebas%20APK%20limpia%201.png)
