@@ -42,4 +42,22 @@ En esta parte decidimos no probar crear tareas o proyectos debido a que esto pod
 
 ## [Capturas de pantalla](https://github.com/matrujillo10/miso-4208-parcial-1/tree/master/todoist/cypress/screenshots/simple_spec.js)
 
+# RedReader
 
+Para las pruebas de la aplicación RedReader limpia y modificada usamos dos estrategias:
+
+1 - Instalación de las aplicaciones y comparan funcionalidades
+2 - Descomprimir el APK para ver cambios en el código
+
+Dentro de las pruebas realizadas entre las aplicaciones encontramos 10 errores que listamos a continuación
+
+1. El contorno de la aplicación es rosado y no rojo
+2. La opción account no sirve
+3. themes tiene la funcionalidad de account
+4. No está la opción de Subreddis suscritos en el home
+5. La opción "Página principal" envía a "Todo sobre los subreddits"
+6. La opción "Todos los subreddits" envía a la "Página principal"
+7. En la sección About el orden de los ítems es diferente
+8. Al ingresar a novedades, la aplicación se daña
+9. No está la opción de "Fijar al menú principal" al seleccionar un subreddit del home
+10. No está la opción de "Quitar del menú principal" al "Fijar al menú principal" un subreddit desde el detalle del subreddit
