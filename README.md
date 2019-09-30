@@ -40,4 +40,6 @@ Sin embargo, decidimos dejar fuera la página de [plantillas](https://todoist.co
 
 En esta parte decidimos no probar crear tareas o proyectos debido a que esto podría afectar ejecucuiones futuras pues la interfaz cambiaría. Además, porque ya el proyecto de bienvenida contiene varias tareas y permite apreciar como es la visualización tanto de las tareas como de los proyectos. Finalmente, consideramos que sí hubiese sido una buena idea realizar el flujo para poder cambiar el tema de la aplicación. Sin embargo, por cuestiones del presupuesto (8H por persona) no nos fue posible.
 
+## [Capturas de pantalla](https://github.com/matrujillo10/miso-4208-parcial-1/tree/master/todoist/cypress/screenshots/simple_spec.js)
+
 
