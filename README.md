@@ -61,3 +61,7 @@ Dentro de las pruebas realizadas entre las aplicaciones encontramos 10 errores q
 8. Al ingresar a novedades, la aplicación se daña
 9. No está la opción de "Fijar al menú principal" al seleccionar un subreddit del home
 10. No está la opción de "Quitar del menú principal" al "Fijar al menú principal" un subreddit desde el detalle del subreddit
+
+### Pruebas de la APK limpia
+
+
